@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="레이어_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 190 190" style="enable-background:new 0 0 190 190;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{clip-path:url(#SVGID_4_);fill:#5EB9E9;}
+	.st2{clip-path:url(#SVGID_4_);fill:#FFFFFF;}
+	.st3{clip-path:url(#SVGID_4_);}
+	.st4{fill:#5EB9E9;fill-opacity="param(fill-opacity) 0"}
+	.st5{fill:#FFFFFF;}
+	.st6{font-family:'MalgunGothic';}
+	.st7{font-size:19px;}
+	.st8{font-family:'SegoeUI';}
+	.st9{clip-path:url(#SVGID_4_);fill:none;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="0.45" y="0.1" width="190" height="190"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st0">
+		<defs>
+			<rect id="SVGID_3_" x="-37.77" y="-117.08" width="375" height="812"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+		</clipPath>
+		<rect x="-37.77" y="-117.08" class="st1" width="375" height="812"/>
+		<!-- <rect x="-37.77" y="-117.08" class="st2" width="375" height="812"/> -->
+		<rect id="사각형_325" x="-37.77" y="-117.08" class="st1" width="375" height="812"/>
+		<g class="st3">
+			<g>
+				<rect x="0.71" y="-0.68" class="st4" width="190" height="190"/>
+			</g>
+			<text transform="matrix(1 0 0 1 27.226 151.9178)" class="st5 st6 st7">한칸의</text>
+			<text transform="matrix(1 0 0 1 84.226 151.9178)" class="st5 st8 st7"> </text>
+			<text transform="matrix(1 0 0 1 89.4306 151.9178)" class="st5 st6 st7">희망이</text>
+			<text transform="matrix(1 0 0 1 27.226 174.9178)" class="st5 st6 st7">당신의</text>
+			<text transform="matrix(1 0 0 1 84.226 174.9178)" class="st5 st8 st7"> </text>
+			<text transform="matrix(1 0 0 1 89.4306 174.9178)" class="st5 st6 st7">한칸으로</text>
+			<g id="그룹_131" transform="translate(0 56.536)">
+				<path id="패스_47" class="st5" d="M27.23,17.97v-3.17h25.69v3.17H27.23z M40.04,39.48c-6.56,0-11.5-3.64-11.5-9.37
+					c0-5.86,4.89-9.31,11.5-9.31c6.56,0,11.5,3.45,11.5,9.31C51.54,35.77,46.6,39.47,40.04,39.48L40.04,39.48z M40.04,24.13
+					c-4.25,0-7.88,2.16-7.88,5.98c0,3.76,3.62,5.98,7.88,5.98c4.2,0,7.88-2.22,7.88-5.98C47.92,26.28,44.24,24.12,40.04,24.13
+					L40.04,24.13z M41.64,16.03h-3.26V8.97h3.26V16.03z M32.94,55.95V43.34h3.56v9.5h28.62v3.11L32.94,55.95z M63,28.2v14.49h-3.56
+					V8.92H63v16.16h7.56v3.11L63,28.2z"/>
+			</g>
+			<g id="그룹_132" transform="translate(47.508 59.06)">
+				<path id="패스_48" class="st5" d="M29.17,36.5l-1.94-2.94c8.78-2.42,14.5-7.02,17.5-12.55l-16.54-0.04v-3.03l17.89,0.08
+					c0.69-1.91,1.13-3.91,1.3-5.93H29.35V8.92h22.15C50.97,23.71,42.61,32.35,29.17,36.5z M33.51,53.54V38.57h3.56v11.8h28.62v3.17
+					L33.51,53.54z"/>
+			</g>
+			<g id="그룹_133" transform="translate(1.663)">
+				<path id="패스_49" class="st5" d="M129.56,112.92l-98.06-0.59l0.02-3.53l94.53,0.56V49.93L78.6,13.33L29.32,50.09l-2.09-2.83
+					l51.4-38.35l50.93,39.28L129.56,112.92z"/>
+			</g>
+			<g id="그룹_134" transform="translate(77.894 56.736)">
+				<path id="패스_50" class="st5" d="M30.78,28.19v14.49h-3.56V8.92h3.56v16.16h7.56v3.11H30.78z"/>
+			</g>
+		</g>
+		<rect x="0.71" y="2.12" class="st9" width="195.78" height="195.78"/>
+	</g>
+</g>
+</svg>
