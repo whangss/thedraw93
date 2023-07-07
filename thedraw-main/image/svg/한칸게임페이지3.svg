@@ -1,0 +1,185 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="1126" viewBox="0 0 375 1126">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 48 48">
+      <image width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAQAAAD9CzEMAAABxUlEQVRYw+2VPUsDQRCGn0hARDGFio3YKCqC1lZ+/IBgZcCk9Stdgh/tFrHTziJqE1SsFATTKgnaa2Nhr4KdGoVAwGgh8e6ye97tcUGFe7ecmefd4Wb2IFCgQLrqocdv5CDzZDnjng/TueecbRYY8g4OMcEOjxas6jyyyyQhPXg7K9w5oq0drdHuDt5KhicteO08s06bE35W8+ZyJ3F7eAentoVvXHNEji22yHHENW+2uXk6VPhx5d3LnJBkWHmhYZKcUFb2MV6fnKAipd0wR8Txm0WY40aqrZAwJy1TleBRrbmLSiZVlo2wsIRKpAhr702YFCULR5jDhsUVA56Xc4ArNd6wOKBZWTrGKhvsUaDAPhusMkWLIq+ZAzX+y2JTWvkQUXI2D0aZY6Zpkio21XiV4tw6rtatdV7cq48L1/t7Sb8uPsaL1hNRIqaDl/eidh54sIlY5t5Joq74hUMS9H7He0lwKPUodHowLF7J2DwYETK8esMbFkW6f8zqpugN/2WRdfFkhMl6w/+COpkhTZoYXf7DRzjl3TSSeUb9xC8qfkcVlvwzEMrV8vXTisbiZYuGDKZoLN6waOhaiX+ztYEC/SF9AqKfx9I7zhCyAAAAAElFTkSuQmCC"/>
+    </pattern>
+    <clipPath id="clip-iPhone_X_XS_11_Pro_84">
+      <rect width="375" height="1126"/>
+    </clipPath>
+    <image id="image" width="24" height="24" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAQAAABKfvVzAAAALklEQVQ4y2NgGBjwHwppoeEIXDEMHiHObGRIUAM+/lDRQLKnRzWMBA0kZyDqAwAoaqJxkZc0+AAAAABJRU5ErkJggg=="/>
+    <image id="image-2" width="24" height="24" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAQAAABKfvVzAAAAHklEQVQ4y2NgGAXEg/9EQMo0DNEAoJ6GUU+PAiAAAGdMU60Fcz6SAAAAAElFTkSuQmCC"/>
+  </defs>
+  <g id="iPhone_X_XS_11_Pro_84" data-name="iPhone X, XS, 11 Pro – 84" clip-path="url(#clip-iPhone_X_XS_11_Pro_84)">
+    <rect width="375" height="1126" fill="#fff"/>
+    <line id="선_69" data-name="선 69" x2="324" transform="translate(25.5 88)" fill="none" stroke="#bcbab9" stroke-miterlimit="10" stroke-width="1"/>
+    <text id="한칸_게임" data-name="한칸 게임" transform="translate(58 69)" fill="#222" font-size="17" font-family="MalgunGothic, Malgun Gothic"><tspan x="0" y="0">한칸</tspan><tspan y="0" font-family="SegoeUI, Segoe UI"> </tspan><tspan y="0">게임</tspan></text>
+    <use id="baseline_battery_5_bar_black_24dp" transform="translate(336 31) rotate(-90)" xlink:href="#image"/>
+    <use id="baseline_segment_black_24dp" transform="translate(333 5) rotate(90)" xlink:href="#image-2"/>
+    <rect id="baseline_wifi_black_24dp" width="20" height="20" rx="10" transform="translate(285 7)" fill="url(#pattern)"/>
+    <text id="_9:41" data-name="9:41" transform="translate(29 23)" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-13.976" y="0">9:41</tspan></text>
+    <circle id="타원_199" data-name="타원 199" cx="11" cy="11" r="11" transform="translate(324.74 52.037)" fill="#5eb9e9"/>
+    <text id="_10_칸" data-name="10  칸" transform="translate(309.914 67.506)" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0" xml:space="preserve">10  </tspan><tspan y="0" font-family="MalgunGothic, Malgun Gothic">칸</tspan></text>
+    <rect id="사각형_240" data-name="사각형 240" width="324" height="40" rx="5" transform="translate(25.5 115)" fill="#fff" stroke="#5eb9e9" stroke-width="1"/>
+    <path id="사각형_241" data-name="사각형 241" d="M0,0H157a5,5,0,0,1,5,5V35a5,5,0,0,1-5,5H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(188 155) rotate(180)" fill="#5eb9e9"/>
+    <text id="나의_한칸_응모_현황" data-name="나의 한칸 응모 현황" transform="translate(219 140.25)" fill="#5eb9e9" font-size="13" font-family="MalgunGothic, Malgun Gothic"><tspan x="0" y="0">나의</tspan><tspan y="0" font-family="SegoeUI, Segoe UI"> </tspan><tspan y="0">한칸</tspan><tspan y="0" font-family="SegoeUI, Segoe UI"> </tspan><tspan y="0">응모</tspan><tspan y="0" font-family="SegoeUI, Segoe UI"> </tspan><tspan y="0">현황</tspan></text>
+    <text id="한칸_게임-2" data-name="한칸 게임" transform="translate(83 139.75)" fill="#fff" font-size="13" font-family="MalgunGothic, Malgun Gothic"><tspan x="0" y="0">한칸</tspan><tspan y="0" font-family="SegoeUI, Segoe UI"> </tspan><tspan y="0">게임</tspan></text>
+    <text id="한칸게임" transform="translate(185.25 215)" fill="#5eb9e9" font-size="30" font-family="MalgunGothic, Malgun Gothic"><tspan x="-60" y="0">한칸게임</tspan></text>
+    <rect id="사각형_121" data-name="사각형 121" width="375" height="5" transform="translate(0 493)" fill="#ededed"/>
+    <text id="풀잎_컬러_선택" data-name="풀잎 컬러 선택" transform="translate(136 529)" font-size="18" font-family="MalgunGothic, Malgun Gothic"><tspan x="0" y="0">풀잎</tspan><tspan y="0" font-family="SegoeUI, Segoe UI"> </tspan><tspan y="0">컬러</tspan><tspan y="0" font-family="SegoeUI, Segoe UI"> </tspan><tspan y="0">선택</tspan></text>
+    <circle id="타원_358" data-name="타원 358" cx="3.5" cy="3.5" r="3.5" transform="translate(217 744.5)" fill="#5eb9e9" stroke="#5eb9e9" stroke-width="1"/>
+    <circle id="타원_357" data-name="타원 357" cx="3.5" cy="3.5" r="3.5" transform="translate(185 744.5)" fill="none" stroke="#909090" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <circle id="타원_359" data-name="타원 359" cx="3.5" cy="3.5" r="3.5" transform="translate(169 744.5)" fill="none" stroke="#909090" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <circle id="타원_360" data-name="타원 360" cx="3.5" cy="3.5" r="3.5" transform="translate(201 744.5)" fill="none" stroke="#909090" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <circle id="타원_362" data-name="타원 362" cx="4" cy="4" r="4" transform="translate(152 744)" fill="none" stroke="#909090" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <g id="그룹_988" data-name="그룹 988" transform="translate(0 -19)">
+      <rect id="사각형_364" data-name="사각형 364" width="324" height="44" rx="5" transform="translate(25 809)" fill="#5eb9e9"/>
+      <text id="한칸응모" transform="translate(158 836)" fill="#fff" font-size="17" font-family="MalgunGothic, Malgun Gothic"><tspan x="0" y="0">한칸응모</tspan></text>
+    </g>
+    <rect id="사각형_309" data-name="사각형 309" width="375" height="163" transform="translate(0 880)" fill="#f8f9fa"/>
+    <text id="_1._숫자_1에서_45까지의_숫자에서_6가지의_숫자를_1개_선택._한칸_포인트를_차감_2._좌우로_넘겨_각_페이지_별로_번호_한개씩_선택_해주세요._3.한칸_포인트_차감_후_한칸_응모하기_클릭._응모한_한칸은_한칸_게임_나의_한칸_응모_현황에서_확인할_수_있습니다." data-name="1. 숫자 1에서 45까지의 숫자에서 6가지의 숫자를 1개 선택.
+(한칸 포인트를 차감) 
+2. 좌우로 넘겨 각 페이지 별로 번호 한개씩 선택 해주세요.
+3.한칸 포인트 차감 후 한칸 응모하기 클릭.
+응모한 한칸은 한칸 게임 &gt;  나의 한칸 응모 현황에서 확인할 수 있습니다." transform="translate(28 936)" fill="#222" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1. </tspan><tspan y="0" font-family="MalgunGothic, Malgun Gothic">숫자</tspan><tspan y="0" xml:space="preserve"> 1</tspan><tspan y="0" font-family="MalgunGothic, Malgun Gothic">에서</tspan><tspan y="0" xml:space="preserve"> 45</tspan><tspan y="0" font-family="MalgunGothic, Malgun Gothic">까지의</tspan><tspan y="0"> </tspan><tspan y="0" font-family="MalgunGothic, Malgun Gothic">숫자에서</tspan><tspan y="0" xml:space="preserve"> 6</tspan><tspan y="0" font-family="MalgunGothic, Malgun Gothic">가지의</tspan><tspan y="0"> </tspan><tspan y="0" font-family="MalgunGothic, Malgun Gothic">숫자를</tspan><tspan y="0" xml:space="preserve"> 1</tspan><tspan y="0" font-family="MalgunGothic, Malgun Gothic">개</tspan><tspan y="0"> </tspan><tspan y="0" font-family="MalgunGothic, Malgun Gothic">선택</tspan><tspan y="0">.</tspan><tspan x="0" y="20">(</tspan><tspan y="20" font-family="MalgunGothic, Malgun Gothic">한칸</tspan><tspan y="20"> </tspan><tspan y="20" font-family="MalgunGothic, Malgun Gothic">포인트를</tspan><tspan y="20"> </tspan><tspan y="20" font-family="MalgunGothic, Malgun Gothic">차감</tspan><tspan y="20">) </tspan><tspan x="0" y="40">2. </tspan><tspan y="40" font-family="MalgunGothic, Malgun Gothic">좌우로</tspan><tspan y="40"> </tspan><tspan y="40" font-family="MalgunGothic, Malgun Gothic">넘겨</tspan><tspan y="40"> </tspan><tspan y="40" font-family="MalgunGothic, Malgun Gothic">각</tspan><tspan y="40"> </tspan><tspan y="40" font-family="MalgunGothic, Malgun Gothic">페이지</tspan><tspan y="40"> </tspan><tspan y="40" font-family="MalgunGothic, Malgun Gothic">별로</tspan><tspan y="40"> </tspan><tspan y="40" font-family="MalgunGothic, Malgun Gothic">번호</tspan><tspan y="40"> </tspan><tspan y="40" font-family="MalgunGothic, Malgun Gothic">한개씩</tspan><tspan y="40"> </tspan><tspan y="40" font-family="MalgunGothic, Malgun Gothic">선택</tspan><tspan y="40"> </tspan><tspan y="40" font-family="MalgunGothic, Malgun Gothic">해주세요</tspan><tspan y="40">.</tspan><tspan x="0" y="60">3.</tspan><tspan y="60" font-family="MalgunGothic, Malgun Gothic">한칸</tspan><tspan y="60"> </tspan><tspan y="60" font-family="MalgunGothic, Malgun Gothic">포인트</tspan><tspan y="60"> </tspan><tspan y="60" font-family="MalgunGothic, Malgun Gothic">차감</tspan><tspan y="60"> </tspan><tspan y="60" font-family="MalgunGothic, Malgun Gothic">후</tspan><tspan y="60"> </tspan><tspan y="60" font-family="MalgunGothic, Malgun Gothic">한칸</tspan><tspan y="60"> </tspan><tspan y="60" font-family="MalgunGothic, Malgun Gothic">응모하기</tspan><tspan y="60"> </tspan><tspan y="60" font-family="MalgunGothic, Malgun Gothic">클릭</tspan><tspan y="60">.</tspan><tspan font-family="MalgunGothic, Malgun Gothic"><tspan x="0" y="80">응모한</tspan><tspan y="80" font-family="SegoeUI, Segoe UI"> </tspan><tspan y="80">한칸은</tspan><tspan y="80" font-family="SegoeUI, Segoe UI"> </tspan><tspan y="80">한칸</tspan><tspan y="80" font-family="SegoeUI, Segoe UI"> </tspan><tspan y="80">게임</tspan><tspan y="80" xml:space="preserve" font-family="SegoeUI, Segoe UI"> &gt;  </tspan><tspan y="80">나의</tspan><tspan y="80" font-family="SegoeUI, Segoe UI"> </tspan><tspan y="80">한칸</tspan><tspan y="80" font-family="SegoeUI, Segoe UI"> </tspan><tspan y="80">응모</tspan><tspan y="80" font-family="SegoeUI, Segoe UI"> </tspan><tspan y="80">현황에서</tspan><tspan y="80" font-family="SegoeUI, Segoe UI"> </tspan><tspan y="80">확인할</tspan><tspan y="80" font-family="SegoeUI, Segoe UI"> </tspan><tspan y="80">수</tspan><tspan y="80" font-family="SegoeUI, Segoe UI"> </tspan><tspan y="80">있습니다</tspan><tspan y="80" font-family="SegoeUI, Segoe UI">.</tspan></tspan></text>
+    <text id="참여_방법" data-name="참여 방법" transform="translate(28 914)" fill="#222" stroke="#c9c9c9" stroke-width="0.25" font-size="14" font-family="MalgunGothicBold, Malgun Gothic"><tspan x="0" y="0">참여</tspan><tspan y="0" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"> </tspan><tspan y="0">방법</tspan></text>
+    <path id="패스_969" data-name="패스 969" d="M10311.5,998l9-9-9-9" transform="translate(-9966.494 -355.007)" fill="none" stroke="#a9a7aa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="패스_970" data-name="패스 970" d="M9618.5,980.007l-9,9,9,9" transform="translate(-9592.998 -355.007)" fill="none" stroke="#a9a7aa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <text id="한칸_선택" data-name="한칸
+선택" transform="translate(29 439.733)" font-size="17" font-family="MalgunGothic, Malgun Gothic"><tspan x="0" y="0">한칸</tspan><tspan y="0" font-family="SegoeUI, Segoe UI"></tspan><tspan x="0" y="22">선택</tspan></text>
+    <circle id="타원_363" data-name="타원 363" cx="20" cy="20" r="20" transform="translate(73 425)" fill="#9974e2" stroke="#9974e2" stroke-width="1"/>
+    <text id="보라" transform="translate(80 449.5)" fill="#fff" font-size="15" font-family="MalgunGothic, Malgun Gothic"><tspan x="0" y="0">보라</tspan></text>
+    <circle id="타원_366" data-name="타원 366" cx="20" cy="20" r="20" transform="translate(238.5 425)" fill="#e3e7e8" stroke="#e3e7e8" stroke-miterlimit="10" stroke-width="1"/>
+    <circle id="타원_367" data-name="타원 367" cx="20" cy="20" r="20" transform="translate(293.5 425)" fill="#19a300" stroke="#19a300" stroke-miterlimit="10" stroke-width="1"/>
+    <text id="회색" transform="translate(245 449.5)" font-size="15" font-family="MalgunGothic, Malgun Gothic"><tspan x="0" y="0">회색</tspan></text>
+    <text id="초록" transform="translate(300 449.5)" fill="#fff" font-size="15" font-family="MalgunGothic, Malgun Gothic"><tspan x="0" y="0">초록</tspan></text>
+    <circle id="타원_373" data-name="타원 373" cx="20" cy="20" r="20" transform="translate(128 425)" fill="#fd9f45" stroke="#fd9f45" stroke-miterlimit="10" stroke-width="1"/>
+    <text id="주황" transform="translate(134.5 449.5)" fill="#fff" font-size="15" font-family="MalgunGothic, Malgun Gothic"><tspan x="0" y="0">주황</tspan></text>
+    <circle id="타원_364" data-name="타원 364" cx="20" cy="20" r="20" transform="translate(183 425.5)" fill="#385ff7"/>
+    <text id="파랑" transform="translate(190 449.5)" fill="#fff" font-size="15" font-family="MalgunGothic, Malgun Gothic"><tspan x="0" y="0">파랑</tspan></text>
+    <path id="패스_76" data-name="패스 76" d="M1892.119,1591l-7.619,7.317,8,7.683" transform="translate(-1858.5 -1535)" fill="none" stroke="#222" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <g id="그룹_1455" data-name="그룹 1455" transform="translate(0 315)">
+      <g id="그룹_1454" data-name="그룹 1454" transform="translate(0 -390)">
+        <rect id="사각형_380" data-name="사각형 380" width="375" height="49" transform="translate(0 1119)" fill="#fff"/>
+        <text id="한칸게임-2" data-name="한칸게임" transform="translate(25 1164)" fill="#5eb9e9" font-size="10" font-family="MalgunGothic, Malgun Gothic"><tspan x="0" y="0">한칸게임</tspan></text>
+        <text id="더보기" transform="translate(323 1164)" fill="#969696" font-size="10" font-family="MalgunGothic, Malgun Gothic"><tspan x="0" y="0">더보기</tspan></text>
+        <text id="희망" transform="translate(255 1164)" fill="#969696" font-size="10" font-family="MalgunGothic, Malgun Gothic"><tspan x="0" y="0">희망</tspan></text>
+        <text id="한칸정보" transform="translate(100 1164)" fill="#969696" font-size="10" font-family="MalgunGothic, Malgun Gothic"><tspan x="0" y="0">한칸정보</tspan></text>
+        <line id="선_88" data-name="선 88" x2="375" transform="translate(0 1119)" fill="none" stroke="#d4d4d4" stroke-miterlimit="10" stroke-width="1"/>
+        <g id="그룹_767" data-name="그룹 767" transform="translate(-5.5 385.5)">
+          <path id="패스_593" data-name="패스 593" d="M688.218,1269.5a11.366,11.366,0,0,1-1.223,5.144c-.461.911,2.583,4.927,1.906,5.68-.743.825-5.228-1.63-6.181-1.044a11.481,11.481,0,1,1,5.5-9.78Z" transform="translate(-335.5 -517.5)" fill="none" stroke="#afafaf" stroke-miterlimit="10" stroke-width="2"/>
+          <g id="그룹_739" data-name="그룹 739" transform="translate(336.796 747.959)">
+            <line id="선_153" data-name="선 153" x2="8.081" transform="translate(0 3.848)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="선_154" data-name="선 154" y1="8.081" transform="translate(3.848)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="그룹_1446" data-name="그룹 1446" transform="translate(17.851 39.5)">
+          <g id="그룹_1445" data-name="그룹 1445" transform="translate(13.149 1086.5)">
+            <path id="패스_1422" data-name="패스 1422" d="M1044.4,723.149a12,12,0,1,0,12,12A12.014,12.014,0,0,0,1044.4,723.149Zm0,22.193a10.193,10.193,0,1,1,10.193-10.193A10.205,10.205,0,0,1,1044.4,745.342Z" transform="translate(-1032.399 -723.149)" fill="#5eb9e9"/>
+            <circle id="타원_386" data-name="타원 386" cx="1.51" cy="1.51" r="1.51" transform="translate(7.254 8.684)" fill="#5eb9e9"/>
+            <circle id="타원_387" data-name="타원 387" cx="1.51" cy="1.51" r="1.51" transform="translate(13.726 8.684)" fill="#5eb9e9"/>
+            <path id="패스_1423" data-name="패스 1423" d="M1054.15,768.764l-1.281,1.281a8.288,8.288,0,0,0,11.707,0l-1.281-1.281A6.475,6.475,0,0,1,1054.15,768.764Z" transform="translate(-1046.723 -755.036)" fill="#5eb9e9"/>
+          </g>
+        </g>
+        <path id="패스_1424" data-name="패스 1424" d="M1151.556,733.368a3.961,3.961,0,0,0-3.9,4.01v15.981a3.961,3.961,0,0,0,3.9,4.009h16.1v-24Zm5.141,1.807h5.569v8.02l-2.785-1.124-2.785,1.124Zm9.2,19.133v1.254h-14.339a2.176,2.176,0,0,1-2.143-2.2V737.377a2.176,2.176,0,0,1,2.143-2.2h3.382v10.671l4.543-1.834,4.543,1.834V735.175h1.87V752.5h-14.582v1.807Z" transform="translate(-1041.654 392.632)" fill="#afafaf"/>
+        <g id="그룹_1448" data-name="그룹 1448" transform="translate(1)">
+          <text id="한칸홈" transform="translate(175 1164)" fill="#969696" font-size="10" font-family="MalgunGothic, Malgun Gothic"><tspan x="0" y="0">한칸홈</tspan></text>
+          <g id="그룹_1447" data-name="그룹 1447" transform="translate(-1089.551 386.382)">
+            <path id="패스_1425" data-name="패스 1425" d="M1291.551,747.767l-5.013-2.918v-5.071h-2.051v3.877l-6.936-4.037-14,8.149,1.026,1.791,1.7-.986v15.047h22.558V748.571l1.7.986Zm-11.094,13.783h-5.812V755.6a2.906,2.906,0,1,1,5.812,0Zm6.322,0h-4.27V755.6a4.958,4.958,0,1,0-9.915,0v5.946h-4.271V747.377l9.228-5.371,9.228,5.371Z" transform="translate(0 0)" fill="#afafaf"/>
+          </g>
+        </g>
+        <path id="패스_1426" data-name="패스 1426" d="M1402.908,740.171a7.809,7.809,0,0,0,0-10.86,66.561,66.561,0,0,0-19.606,0,7.81,7.81,0,0,0,0,10.861l8.086,8.268a2.393,2.393,0,0,0,3.433,0l.706-.722v3.334h5.905V747.3h3.672v-6.038h-3.26Zm-18.328-1.306a5.933,5.933,0,0,1,0-8.248,5.6,5.6,0,0,1,7.911-.153l.614.583.615-.583a5.6,5.6,0,0,1,7.911.153,5.933,5.933,0,0,1,0,8.248l-.2.2V737.5h-5.905v3.754h-3.672V746.3Zm8.373,8.432h.306A.6.6,0,0,1,1392.952,747.3Zm10.346-1.847h-3.672V749.2h-2.292v-3.754h-3.672V743.1h3.672v-3.754h2.292V743.1h3.672Z" transform="translate(-1130.105 398.95)" fill="#afafaf"/>
+      </g>
+    </g>
+    <g id="그룹_973" data-name="그룹 973" transform="translate(97.188 251.253)">
+      <g id="그룹_972" data-name="그룹 972">
+        <path id="패스_971" data-name="패스 971" d="M5408.588,3600.588a14.613,14.613,0,0,0-5.686,1.155,21.058,21.058,0,0,0-40.959-.752,14.529,14.529,0,0,0-3.362-.4,15.239,15.239,0,0,0-15,15.472,15.57,15.57,0,0,0,7.095,13.135h65.815a15.564,15.564,0,0,0,7.09-13.135A15.236,15.236,0,0,0,5408.588,3600.588Z" transform="translate(-5343.583 -3585.195)" fill="#19a300"/>
+      </g>
+    </g>
+    <g id="그룹_974" data-name="그룹 974" transform="translate(116.338 265.619)">
+      <path id="패스_972" data-name="패스 972" d="M5593.358,3710.354a2.04,2.04,0,1,1-2-2.444A2.261,2.261,0,0,1,5593.358,3710.354Z" transform="translate(-5562.873 -3699.608)" fill="#a8efe3"/>
+      <path id="패스_973" data-name="패스 973" d="M5449.984,3762.017a2,2,0,1,1-2-2A2,2,0,0,1,5449.984,3762.017Z" transform="translate(-5445.984 -3742.091)" fill="#a8efe3"/>
+      <path id="패스_974" data-name="패스 974" d="M5496.3,3664.969a2,2,0,1,1-2-2A2,2,0,0,1,5496.3,3664.969Z" transform="translate(-5483.748 -3662.968)" fill="#a8efe3"/>
+    </g>
+    <g id="그룹_977" data-name="그룹 977" transform="translate(97.188 295.143)">
+      <g id="그룹_976" data-name="그룹 976">
+        <path id="패스_975" data-name="패스 975" d="M5416.493,3823.4h-65.815a15.569,15.569,0,0,0-7.095,13.134,15.241,15.241,0,0,0,15,15.474,14.636,14.636,0,0,0,3.362-.4,21.057,21.057,0,0,0,40.959-.752,14.579,14.579,0,0,0,5.686,1.157,15.238,15.238,0,0,0,14.994-15.474A15.563,15.563,0,0,0,5416.493,3823.4Z" transform="translate(-5343.583 -3823.398)" fill="#19a300"/>
+      </g>
+    </g>
+    <g id="그룹_978" data-name="그룹 978" transform="translate(116.338 302.032)">
+      <path id="패스_976" data-name="패스 976" d="M5593.358,3915a2,2,0,1,0-2,2A2,2,0,0,0,5593.358,3915Z" transform="translate(-5562.873 -3903.372)" fill="#a8efe3"/>
+      <path id="패스_977" data-name="패스 977" d="M5449.984,3862.888a2,2,0,1,0-2,2A2,2,0,0,0,5449.984,3862.888Z" transform="translate(-5445.984 -3860.888)" fill="#a8efe3"/>
+      <path id="패스_978" data-name="패스 978" d="M5496.3,3959.929a2,2,0,1,0-2,2A2,2,0,0,0,5496.3,3959.929Z" transform="translate(-5483.748 -3940.003)" fill="#a8efe3"/>
+    </g>
+    <path id="패스_979" data-name="패스 979" d="M5507.244,3699.99l-35,38.583v55.417h70v-55.417Z" transform="translate(-5351.289 -3427.731)" fill="#e3e7e8"/>
+    <rect id="사각형_392" data-name="사각형 392" width="63" height="56" transform="translate(191.339 310.929)" fill="#e3e7e8"/>
+    <path id="패스_980" data-name="패스 980" d="M5583.65,3696.324l-29.321-41.372c-.792-1.091-1.511-2.092-3.063-2.092l-68.729.026a3.666,3.666,0,0,0-2.439,1.141l-36.858,40.615a3.689,3.689,0,1,0,5.378,5.052l34.169-37.741,34.17,37.741a3.663,3.663,0,0,0,2.451,1.15l.007.009,61.173-.029C5584.32,3700.824,5584.892,3697.568,5583.65,3696.324Z" transform="translate(-5326.829 -3389.108)" fill="#9974e2"/>
+    <path id="패스_981" data-name="패스 981" d="M5593.744,3900c-7.731,0-14,6.585-14,14.71V3957h28v-42.29C5607.744,3906.585,5601.479,3900,5593.744,3900Z" transform="translate(-5438.877 -3590.794)" fill="#fff"/>
+    <path id="패스_982" data-name="패스 982" d="M5534,4219.622H5355v-6c0-3.313,1.781-6,3.978-6h171.044c2.2,0,3.978,2.687,3.978,6Z" transform="translate(-5255.703 -3841.59)" fill="#c6cbcc"/>
+    <path id="패스_983" data-name="패스 983" d="M5903.244,3980a11.038,11.038,0,0,0-11,11.077v11.077a1.839,1.839,0,0,0,1.833,1.846h18.333a1.839,1.839,0,0,0,1.833-1.846v-11.077A11.037,11.037,0,0,0,5903.244,3980Z" transform="translate(-5693.584 -3655.958)" fill="#385ff7"/>
+    <rect id="사각형_393" data-name="사각형 393" width="1.847" height="24" transform="translate(208.736 324.042)" fill="#dce1e2"/>
+    <rect id="사각형_394" data-name="사각형 394" width="22" height="1.847" transform="translate(198.66 335.118)" fill="#dce1e2"/>
+    <path id="패스_984" data-name="패스 984" d="M6053.245,3980a11.038,11.038,0,0,0-11,11.077v11.077a1.839,1.839,0,0,0,1.834,1.846h18.333a1.839,1.839,0,0,0,1.833-1.846v-11.077A11.037,11.037,0,0,0,6053.245,3980Z" transform="translate(-5815.843 -3655.958)" fill="#385ff7"/>
+    <rect id="사각형_395" data-name="사각형 395" width="1.847" height="24" transform="translate(236.478 324.042)" fill="#dce1e2"/>
+    <rect id="사각형_396" data-name="사각형 396" width="22" height="1.847" transform="translate(226.401 335.118)" fill="#dce1e2"/>
+    <g id="그룹_984" data-name="그룹 984" transform="translate(212.142 333.139)">
+      <g id="그룹_983" data-name="그룹 983">
+        <path id="패스_985" data-name="패스 985" d="M6013.618,4041.1a10.955,10.955,0,0,0-4.265.868,15.794,15.794,0,0,0-30.722-.564,10.9,10.9,0,0,0-2.521-.3,11.432,11.432,0,0,0-11.25,11.605,11.673,11.673,0,0,0,5.322,9.85h49.363a11.669,11.669,0,0,0,5.318-9.85A11.428,11.428,0,0,0,6013.618,4041.1Z" transform="translate(-5964.86 -4029.56)" fill="#19a300"/>
+      </g>
+    </g>
+    <g id="그룹_985" data-name="그룹 985" transform="translate(226.437 343.772)">
+      <circle id="타원_369" data-name="타원 369" cx="2" cy="2" r="2" transform="translate(20.013 6.272)" fill="#a8efe3"/>
+      <circle id="타원_370" data-name="타원 370" cx="2" cy="2" r="2" transform="translate(0 13.546)" fill="#a8efe3"/>
+      <circle id="타원_371" data-name="타원 371" cx="2" cy="2" r="2" transform="translate(6.465)" fill="#a8efe3"/>
+    </g>
+    <path id="패스_986" data-name="패스 986" d="M5903.176,3619.948h-22v-20a1.921,1.921,0,0,1,1.833-2h18.333a1.921,1.921,0,0,1,1.833,2Z" transform="translate(-5684.176 -3344.34)" fill="#fd9f45"/>
+    <path id="패스_987" data-name="패스 987" d="M5897.177,3586h-26v-2.5c0-1.382.831-2.5,1.857-2.5h22.285c1.027,0,1.858,1.118,1.858,2.5Z" transform="translate(-5676.177 -3330.521)" fill="#c6cbcc"/>
+    <path id="패스_988" data-name="패스 988" d="M5599.768,4055.267a2.5,2.5,0,1,1-2.5-2.5A2.5,2.5,0,0,1,5599.768,4055.267Z" transform="translate(-5451.13 -3715.283)" fill="#3058a0"/>
+    <line id="선_155" data-name="선 155" y2="54.759" transform="translate(191.339 311.273)" fill="none" stroke="#c6cbcc" stroke-width="1"/>
+    <circle id="타원_343" data-name="타원 343" cx="20" cy="20" r="20" transform="translate(55 560)" fill="none" stroke="#b6b6b6" stroke-miterlimit="10" stroke-width="1"/>
+    <circle id="타원_344" data-name="타원 344" cx="20" cy="20" r="20" transform="translate(111 560)" fill="none" stroke="#b6b6b6" stroke-miterlimit="10" stroke-width="1"/>
+    <circle id="타원_345" data-name="타원 345" cx="20" cy="20" r="20" transform="translate(167 560)" fill="none" stroke="#b6b6b6" stroke-miterlimit="10" stroke-width="1"/>
+    <circle id="타원_346" data-name="타원 346" cx="20" cy="20" r="20" transform="translate(223 560)" fill="#19a300" stroke="#19a300" stroke-miterlimit="10" stroke-width="1"/>
+    <circle id="타원_347" data-name="타원 347" cx="20" cy="20" r="20" transform="translate(279 560)" fill="none" stroke="#b6b6b6" stroke-miterlimit="10" stroke-width="1"/>
+    <text id="주황-2" data-name="주황" transform="translate(117.5 584.5)" font-size="15" font-family="MalgunGothic, Malgun Gothic"><tspan x="0" y="0">주황</tspan></text>
+    <text id="빨강" transform="translate(61.5 584.5)" font-size="15" font-family="MalgunGothic, Malgun Gothic"><tspan x="0" y="0">빨강</tspan></text>
+    <text id="노랑" transform="translate(173.5 584.5)" font-size="15" font-family="MalgunGothic, Malgun Gothic"><tspan x="0" y="0">노랑</tspan></text>
+    <text id="초록-2" data-name="초록" transform="translate(229.5 584.5)" fill="#fff" font-size="15" font-family="MalgunGothic, Malgun Gothic"><tspan x="0" y="0">초록</tspan></text>
+    <text id="파랑-2" data-name="파랑" transform="translate(285.5 584.5)" font-size="15" font-family="MalgunGothic, Malgun Gothic"><tspan x="0" y="0">파랑</tspan></text>
+    <circle id="타원_348" data-name="타원 348" cx="20" cy="20" r="20" transform="translate(55 615)" fill="none" stroke="#b6b6b6" stroke-miterlimit="10" stroke-width="1"/>
+    <circle id="타원_349" data-name="타원 349" cx="20" cy="20" r="20" transform="translate(111 615)" fill="none" stroke="#b6b6b6" stroke-miterlimit="10" stroke-width="1"/>
+    <text id="남색" transform="translate(61.5 639.5)" font-size="15" font-family="MalgunGothic, Malgun Gothic"><tspan x="0" y="0">남색</tspan></text>
+    <text id="보라-2" data-name="보라" transform="translate(117.5 639.5)" font-size="15" font-family="MalgunGothic, Malgun Gothic"><tspan x="0" y="0">보라</tspan></text>
+    <circle id="타원_350" data-name="타원 350" cx="20" cy="20" r="20" transform="translate(167 615)" fill="none" stroke="#b6b6b6" stroke-miterlimit="10" stroke-width="1"/>
+    <circle id="타원_351" data-name="타원 351" cx="20" cy="20" r="20" transform="translate(223 615)" fill="none" stroke="#b6b6b6" stroke-miterlimit="10" stroke-width="1"/>
+    <circle id="타원_352" data-name="타원 352" cx="20" cy="20" r="20" transform="translate(279 615)" fill="none" stroke="#b6b6b6" stroke-miterlimit="10" stroke-width="1"/>
+    <text id="분홍" transform="translate(173.5 639.5)" font-size="15" font-family="MalgunGothic, Malgun Gothic"><tspan x="0" y="0">분홍</tspan></text>
+    <text id="갈색" transform="translate(229.5 639.5)" font-size="15" font-family="MalgunGothic, Malgun Gothic"><tspan x="0" y="0">갈색</tspan></text>
+    <text id="하늘" transform="translate(285.5 639.5)" font-size="15" font-family="MalgunGothic, Malgun Gothic"><tspan x="0" y="0">하늘</tspan></text>
+    <use id="baseline_battery_5_bar_black_24dp-2" data-name="baseline_battery_5_bar_black_24dp" transform="translate(336 31) rotate(-90)" xlink:href="#image"/>
+    <use id="baseline_segment_black_24dp-2" data-name="baseline_segment_black_24dp" transform="translate(333 5) rotate(90)" xlink:href="#image-2"/>
+    <rect id="baseline_wifi_black_24dp-2" data-name="baseline_wifi_black_24dp" width="20" height="20" rx="10" transform="translate(285 7)" fill="url(#pattern)"/>
+    <text id="_9:41-2" data-name="9:41" transform="translate(29 23)" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-13.976" y="0">9:41</tspan></text>
+    <path id="패스_969-2" data-name="패스 969" d="M10311.5,998l9-9-9-9" transform="translate(-9966.494 -355.007)" fill="none" stroke="#a9a7aa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <rect id="사각형_120" data-name="사각형 120" width="374.72" height="1085" transform="translate(0 40)" opacity="0.54"/>
+    <g id="그룹_993" data-name="그룹 993">
+      <g id="그룹_28" data-name="그룹 28" transform="translate(57.538 265.383)">
+        <rect id="사각형_39" data-name="사각형 39" width="260" height="240" rx="5" transform="translate(0.462 39.617)" fill="#fff"/>
+        <text id="한칸을_사용해_응모하시겠습니까_" data-name="한칸을 사용해
+응모하시겠습니까?" transform="translate(127.998 166.282)" fill="#222" font-size="14" font-family="MalgunGothic, Malgun Gothic"><tspan x="-43.917" y="0">한칸을</tspan><tspan y="0" font-family="SegoeUI, Segoe UI"> </tspan><tspan y="0">사용해</tspan><tspan y="0" font-family="SegoeUI, Segoe UI"></tspan><tspan x="-59.138" y="21">응모하시겠습니까</tspan><tspan y="21" font-family="SegoeUI, Segoe UI">?</tspan></text>
+        <rect id="사각형_40" data-name="사각형 40" width="225" height="44" rx="5" transform="translate(17.462 222.617)" fill="#d9515e"/>
+        <text id="확인" transform="translate(114.506 249.736)" fill="#fff" font-size="18" font-family="MalgunGothic, Malgun Gothic"><tspan x="0" y="0">확인</tspan></text>
+        <circle id="타원_10" data-name="타원 10" cx="40" cy="40" r="40" transform="translate(90.462 -0.383)" fill="#d9515e"/>
+        <g id="그룹_27" data-name="그룹 27" transform="translate(107.395 16.547)">
+          <g id="그룹_26" data-name="그룹 26">
+            <path id="패스_7" data-name="패스 7" d="M4947.873,1958.191a4.419,4.419,0,0,1,7.547,0l9.318,15.7,9.318,15.7a4.241,4.241,0,0,1-3.774,6.359h-37.272a4.24,4.24,0,0,1-3.773-6.359l9.318-15.7Z" transform="translate(-4928.647 -1956.072)" fill="#fff"/>
+          </g>
+          <text id="_" data-name="?" transform="translate(17.61 33)" font-size="27" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">?</tspan></text>
+        </g>
+      </g>
+      <g id="그룹_992" data-name="그룹 992">
+        <text id="_1칸_사용" data-name="1칸 사용" transform="translate(160 385.682)" fill="#d9515e" font-size="17" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1</tspan><tspan y="0" font-family="MalgunGothic, Malgun Gothic">칸</tspan><tspan y="0"> </tspan><tspan y="0" font-family="MalgunGothic, Malgun Gothic">사용</tspan></text>
+        <line id="선_63" data-name="선 63" x2="110" transform="translate(132.5 396.533)" fill="none" stroke="#d9515e" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
